@@ -7,6 +7,7 @@ In order to tackle these issues while maintaining a high degree of automation an
 
 ## Links
 
+ * [Preprint of Prof. cI publication](https://github.com/hpi-epic/profci-exercise/raw/master/docs/prof_ci.pdf)
  * [Repository containing the Prof. CI exercise](https://github.com/hpi-epic/profci-exercise#prof-ci----ruby-on-rails-and-tdd-exercise)
  * [Hidden requirement tests](https://github.com/hpi-epic/profci-tasks/tree/master/spec/_tdd_tasks)
  * [Work results after regular introduction exercise](https://github.com/hpi-epic/wimi-portal-analysis/wiki)
