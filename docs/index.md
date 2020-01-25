@@ -17,6 +17,7 @@ The work was presented at the [Frontiers in Education 2017](http://fie2017.org/)
 ## Links
 
  * [Preprint of Prof. CI publication](prof_ci.pdf)
+ * [Published paper in FIE'17 proceedings](https://doi.org/10.1109/FIE.2017.8190589)
  * [Repository containing the Prof. CI exercise](https://github.com/hpi-swt2-exercise/rails-intro-exercise)
  * [Work results after regular introduction exercise](https://github.com/hpi-epic/wimi-portal-analysis/wiki)
  * [Work results after Prof. CI introduction exercise](https://github.com/hpi-epic/workshop-portal-analysis/wiki)
